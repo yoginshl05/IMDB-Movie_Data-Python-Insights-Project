@@ -1,5 +1,5 @@
 # IMDB-DATASET - RSVP MOVIES  
-## SQL & Python Data Analysis Project
+## Python Data Analysis Project
 
 This project presents a comprehensive data analysis of the IMDb Movies Dataset using Python (Pandas, Matplotlib, Seaborn) to derive actionable insights for RSVP Movies as they plan a movie targeted at a global audience.
 
